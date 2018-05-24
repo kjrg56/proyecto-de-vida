@@ -1,0 +1,25 @@
+.tabs li a {
+    color: white !important;
+    padding: 0 10px 0 10px !important;
+}
+
+.tabs li a i {
+    padding-top: 10px;
+}
+
+#estrategias tr {
+    border: solid white 1px;
+}
+
+.no-border {
+    border: none;
+}
+
+.avance {
+    padding-top: 10px;
+}
+
+.pic {
+    height: auto;
+    max-width: 50%;
+}
